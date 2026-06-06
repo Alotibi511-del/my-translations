@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">ترجمتي الخاصة</string>
-    <string name="welcome_message">مرحباً بك في التطبيق</string>
+    <string name="game_mode">طور اللعبة</string>
+    <string name="game_mode_classic">كلاسيكي</string>
+    <string name="map_size">حجم الخريطة</string>
+    <string name="map_size_medium">متوسط</string>
+    <string name="min_players">الحد الأدنى للاعبين</string>
+    <string name="bot_difficulty">صعوبة البوتات</string>
+    <string name="bot_difficulty_normal">عادي</string>
+    <string name="max_split">أقصى عدد لقطع الانقسام</string>
+    
+    <string name="quick_merge">اندماج سريع</string>
+    <string name="circle_map">خريطة دائرية</string>
+    <string name="relax">استرخاء</string>
+    <string name="no_holes">بدون ثقوب</string>
+    <string name="gold_holes">ثقوب ذهبية</string>
+    
+    <string name="btn_back">رجوع</string>
+    <string name="btn_play">لعب</string>
+
+    <string name="singleplayer">لاعب واحد</string>
+    <string name="lan_multiplayer">لعب جماعي (LAN)</string>
+    <string name="online_multiplayer">لعب جماعي أونلاين</string>
+    <string name="clan">الكلان</string>
+    <string name="no_clan">لا يوجد كلان</string>
+    <string name="play_online">العب أونلاين</string>
+    <string name="friends">الأصدقاء</string>
+    <string name="chat">الدردشة</string>
+    <string name="leaderboard">قائمة الصدارة</string>
+    <string name="private_rooms">الغرف الخاصة</string>
+    <string name="empty">فارغة</string>
+    <string name="create">إنشاء</string>
+    <string name="join">انضمام</string>
+    <string name="switch_server">تغيير السيرفر</string>
+    <string name="exit">خروج</string>
 </resources>
